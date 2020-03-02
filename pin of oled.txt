@@ -1,0 +1,4 @@
+oled i2c address previous was adxl345
+
+
+oled 5v ,gnd,scl,sda
