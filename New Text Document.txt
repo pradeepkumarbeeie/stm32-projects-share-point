@@ -1,0 +1,29 @@
+-45.06
+
+The acceleration info of x, y, z are:65531 65407 228
+                                                    Roll:89.81
+Pitch:-45.06
+
+The acceleration info of x, y, z are:65531 65408 228
+                                                    Roll:89.81
+Pitch:-45.06
+
+The acceleration info of x, y, z are:65531 65407 228
+                                                    Roll:89.81
+Pitch:-45.06
+
+The acceleration info of x, y, z are:65532 65408 228
+                                                    Roll:89.81
+Pitch:-45.06
+
+The acceleration info of x, y, z are:65531 65407 227
+                                                    Roll:89.81
+Pitch:-45.06
+
+The acceleration info of x, y, z are:65534 65408 228
+                                                    Roll:89.81
+Pitch:-45.06
+
+The acceleration info of x, y, z are:65532 65408 227
+                                                    Roll:89.81
+Pitch:-45.06
